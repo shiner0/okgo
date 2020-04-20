@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">base</string>
+    <string name="setting">Oke</string>
+    <string name="cancel">Batalkan</string>
+    <string name="permission_tip">Aplikasi saat ini tidak memiliki izin yang diperlukan.Silakan klik Pengaturan - Izin - Buka izin yang diperlukan.Terakhir, klik tombol kembali dua kali untuk kembali.</string>
+    <string name="permission">Anda belum mengaktifkan izin yang diperlukan. Buka Pengaturan untuk mengaktifkan izin.</string>
+</resources>
